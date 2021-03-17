@@ -1,4 +1,4 @@
- name: Part 2 workflow
+    name: Part 2 workflow
 
     on:
       workflow_dispatch:
