@@ -1,4 +1,4 @@
-    name: GitHub Classroom Workflow
+    name: Part 1 Workflow
 
     on:
       workflow_dispatch:
