@@ -4,7 +4,7 @@
       workflow_dispatch:
       push:
         tags:
-          - checkMe*
+          - checkMeP1*
 
     jobs:
       build:
